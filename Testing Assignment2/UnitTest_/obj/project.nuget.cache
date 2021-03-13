@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUjX2/58h0mO93bIAc9Z/dH+6ILmtKVgrP8Vs4Hgncl4qR0lwzotiYBDybH2Z+WUO9caI4vlX+a7woBlPQ+bdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sneh\\source\\repos\\UnitTest_2\\UnitTest_\\UnitTest_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sneh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Sneh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
